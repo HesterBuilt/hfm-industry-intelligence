@@ -1,26 +1,61 @@
 {
-  "updated": "2026-11-18T07:26:48.725858+00:00",
+  "updated": "2026-11-18T20:29:26.635422+00:00",
   "articles": [
+    {
+      "category": "Housing & Remodeling",
+      "title": "US single-family housing starts rebound, but trend remains subdued - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHNvWXhTdjFvTnd2ZWpsdjVvM29QLWdyUzZOMWFTTjdHUEdTazZZMGxPWFdtZk9TdVZ5WlhJb2FPbmtQbURFd1pTWUlnSS1LTk54Wk1RY2FSRWJ5cGdHOGl3NEVBaEZlcWlJVW1LblcySGxZVjUtdFNuMUlNbmhiNHJiM2tYZUZpdHg2LVdiS3dTZ1RmVjZqZzlhaXJua2JMc2FORFdFMTlNZTRSTUZpbWFIMExWdnM?oc=5",
+      "published": "2026-11-18T18:51:20+00:00"
+    },
+    {
+      "category": "Housing & Remodeling",
+      "title": "Nearly half of home builders are cutting prices and offering lower mortgage rates as they struggle to find buyers - MarketWatch",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObU1aTTdQWGlnY0dIVXA3T1lrRmJKOEZsTldxTGZYdlR3VU11Y3JDTWFHMWxkVjk0c0VJWDhxNVA5OEpFOU45djF1SDFSa0prNmpDbHlkSGRhVVpRYzlSVzRzWU1yTy0zaTlyajFVRndVTm5CZmJrMTQyY1FTUDcxMmJseVhkLTRWZGpHYkFxZDJFdXo2ZW82SGF1QTE2RHlCRjhXdUN1UlpKVFBVcS14a1VzSHZGejNzNWlMVDdPaDl4SEVLNVpBVzJ4TlpZNTRFb3ZUX1ZoRmtrVHJJcmZSRUxSSy1jaUdDTG01Yg?oc=5",
+      "published": "2026-11-18T17:14:00+00:00"
+    },
+    {
+      "category": "Housing & Remodeling",
+      "title": "Homebuilders brace for weaker demand and higher costs - Axios",
+      "source": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMGY4Zl9QX2NjbEhuRmhWdHlHbDNPRHFaMVcxajM5d09LWndIMHJxZkpVWlpTZllocWJQNXAxUWdWNkpCVjNyM3M4QXJvLWI5c2hDOGo4TEprTHkzUjN5MjZGVXNRRWtCSnZyTHAxODdaZlNXemVnWUtzelBfS09NenhrZXhHd3Rp?oc=5",
+      "published": "2026-11-18T17:13:54+00:00"
+    },
+    {
+      "category": "Business & Regulation",
+      "title": "Magnetize Me Expands Local SEO Services for Georgia Small Businesses - Detroit Free Press",
+      "source": "Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNmFSLVdYWFlBcG44b2ZiZmZhQU5UM0YxWDBQRUlBRHEyaER1MnkyenBXYVJQaWI2VG9aUHRxc29qNzdFNzlId2dnQUp4eXJwR3VDSGdXY3AwVldVWXVqSkU2ZFFqVHZyVEFRMHVUWl8wMnlvZnBFZVIyOE12ckFtTGNqZHpQajFBNURSUlp0LThPNHVxVktwOWgzODBHWjgzYm1iT3B1NTFiM2VwNFljcE44ZU85VzUyZEE?oc=5",
+      "published": "2026-11-18T16:48:05+00:00"
+    },
+    {
+      "category": "Housing & Remodeling",
+      "title": "US Pending Home Sales Fall to New Record Low on High Rates - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQy12V3lxemNVVlhtS2VpMkFKR0lHT2RxWjFEay0tOGtNcFFONnBtUkhmanNrYTBkQXBDM2ZBc2pXSFRUNnFoV1o5bHdfZ0ppMUltN1VwdHdlLU5HTWRzMVlaOGswc0pkYkd1eHNhbWNGWGFvaFBGTHl5ZDNYY1M2SDVXRTByWWhPNVFCdmdiMlZCem5aYzZEUGZBMXRNOWU5bTBLcXBWczBGMm85M3c?oc=5",
+      "published": "2026-11-18T15:12:44+00:00"
+    },
+    {
+      "category": "Housing & Remodeling",
+      "title": "Home maintenance is fueling a rise in building materials sales - Marketplace.org",
+      "source": "Marketplace.org",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd21YajBBWHV0TlVRT3JIS1VYUjBsNnNmRzNid0NfQ3Q5eGNXbldVRkhaLXRIbVZiSnJ5Z3l1em9CVy14N2JsSkR0N1l5bWtCdTAzT2ppNWJsTUF2bzRyX1JIOHQwUmZmLWx6cHNfZmxDcnZLWXFkVURDeDZPT21OTkthQzI0SURhdEJSd25GTFdBU2l0NUpxS0hQSHNXQQ?oc=5",
+      "published": "2026-11-17T22:15:00+00:00"
+    },
+    {
+      "category": "Housing & Remodeling",
+      "title": "US homebuilder sentiment tumbles to more than 14-1/2-year low in November - The Detroit News",
+      "source": "The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMy1mX09aWl9xU0hUS0lXMk5aUnZWM1EydUVNMzRMMjE0aU53Zk5JVDM1Ul92eHo2ZFZjV0VGWElwaXVwYlRsZ0ota2hjQWRaZHZ5UHRBMk1jZnROaXhrMEdHbzdWRXh3cjFWWFdVR3p1UDVwZ3dybzRuVGtGTWEzVXhLTkdtU3RjV2VRRl9FWWNXbEx6NEtFR0VqQ1BiYm8tLUZPNjh5Wm5tR2FpampnYzJ1MXNBOEQyMVR2SFlsVHluOWpJSDVJVnFwVUEzaFN5c0hILTF4Z2tLajhoaEFB?oc=5",
+      "published": "2026-11-17T17:56:00+00:00"
+    },
     {
       "category": "Housing & Remodeling",
       "title": "Homebuilder Confidence Hits New 14-Year Low as High Mortgage Rates and Inflation Take a Toll - Realtor.com",
       "source": "Realtor.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlh4SHlPQmtVdEJ1TjgwZ0FDcmdVd21TNVVQa21XZWdZSW45Z0R3Sm5jV093RkoxZ2FIYkIteXpvdFR5MklTbXFXcXl6WnNJTGgtWFhRQk55N04tMlJiS3VqNldJd21LWWFsN1dOQU5BMFB2Q01YOVBJcnJQUURwWDIzcklUSlBENGZV?oc=5",
       "published": "2026-11-17T16:44:59+00:00"
-    },
-    {
-      "category": "Housing & Remodeling",
-      "title": "US Homebuilder Sentiment Sags to Fresh 14-Year Low on High Rates - Bloomberg",
-      "source": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUXd4VGtnX003WVNWOFNoOU0tUnBISFItbFNsZG9ZSnpNVWJxYUhUTXVqamJjbnBjZTU5a1A0NmxPVWZVWkhjcE5YLUdZS0psUlRvRlhmLVBUMkNTNW1HdVVrVW9JRFFMSDBVQ0hLWHZQY1NYczFwbXVHWWtpR1NyMExkYXJwbTBrNURPdDhTUW1Md3o2TS1MTnZpVmZpLVU3eVhaQUNmRkhVbnRXOE94a2NOaWxoQQ?oc=5",
-      "published": "2026-11-17T15:28:22+00:00"
-    },
-    {
-      "category": "Housing & Remodeling",
-      "title": "US homebuilder sentiment tumbles to more than 14-1/2-year low in November - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV2RIcTE0dE9xcDUxZ1RJeFFDdTNVM2UwVUI4OW9mUmRpN2FVYWxUcEFENmx1YzdnbXdaZTBpWGxpTnFObnJ0MXdjT0dmNUptc3FwT1QyWmVmMlBrblB0WlMyXzlxdU5GelNGWUFLMTh1aHZqUjJHczdWRGZmNHVQcXFuZHNtY2tFVk5YbmFqQ3h0enBzT1dtSEhmRlBSenh1cnBzWFYtM2NZaTJWQm1IVA?oc=5",
-      "published": "2026-11-17T15:03:21+00:00"
     },
     {
       "category": "Housing & Remodeling",
@@ -31,24 +66,10 @@
     },
     {
       "category": "Housing & Remodeling",
-      "title": "Nearly half of home builders are cutting prices and offering lower mortgage rates as they struggle to find buyers - MarketWatch",
-      "source": "MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObU1aTTdQWGlnY0dIVXA3T1lrRmJKOEZsTldxTGZYdlR3VU11Y3JDTWFHMWxkVjk0c0VJWDhxNVA5OEpFOU45djF1SDFSa0prNmpDbHlkSGRhVVpRYzlSVzRzWU1yTy0zaTlyajFVRndVTm5CZmJrMTQyY1FTUDcxMmJseVhkLTRWZGpHYkFxZDJFdXo2ZW82SGF1QTE2RHlCRjhXdUN1UlpKVFBVcS14a1VzSHZGejNzNWlMVDdPaDl4SEVLNVpBVzJ4TlpZNTRFb3ZUX1ZoRmtrVHJJcmZSRUxSSy1jaUdDTG01Yg?oc=5",
-      "published": "2026-11-17T15:01:00+00:00"
-    },
-    {
-      "category": "Housing & Remodeling",
       "title": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices - CNBC",
       "source": "CNBC",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOREhTR1FVY1JMZW9BTDBLQWc5N2x3ckxvWllOV2V0cWFMdWNyeFMxM1RZMGJHWk93d3dFajBsZGgzTzA5ekZONzlDWm80cGtUR2JfMzY4Uko3QWU4SjM5NW1nUEh5Q1pFcGZQdWxtVG5Jck05RkE1VlRmeUhFYVJGLXZDUmxQRWxXY0RwMVh6N3F4LXJ0b2lIVGZOblR6dmRkM05OellMOTloS1dnQnZnSnVNdHkwVE9Ia1HSAb8BQVVfeXFMTWNrNFZzejFUVE9GNVFGbTFVX2xyYmpCLWhsUmx2MmdLQU9PQ1NVblVjc2FDMzZYQVlhMEdXbS1EamRRWkZ3RmFXN29pRnBxNllaN1FzeTJ2c21ZekxHdzdESE9iSTVnUzhuWHRiUW1GbFYtRFh2SkFONDlDSWg4RWFhRUVta2tBeWtMYkRrVVpBS1NpeGs0Sk13Y0E5R2gtSk1PX1ltbFZzc1k3bG9ib05mWkRucWJpajQyMTlXVjA?oc=5",
       "published": "2026-11-17T15:00:01+00:00"
-    },
-    {
-      "category": "Housing & Remodeling",
-      "title": "NAHB: Remodeling to top 50% of building; ready rehab loans - National Mortgage News",
-      "source": "National Mortgage News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS1E0d0pxMV9BZi1rbGx3ck9wOGlrYVRGMTcyVVByaXBVcWYxN3gtS0JZQk03b3BIWV9oVkF1YnlES0FLWlJYTXpOck5leUJfYUNjaURIbllUSFNYVDZLTzhjY0tCcVZnaHphd1pSMGNBcThnLWNUMXBESU1MSlBEUnRQMW95WEZENGl2QXRiWnVDbmhiYTljOVlqdV9Sdw?oc=5",
-      "published": "2026-11-16T11:00:00+00:00"
     },
     {
       "category": "Cabinetry & Materials",
@@ -63,6 +84,13 @@
       "source": "Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQazYxQkdWajZ2X0pnd2tKYkhZY3FVMjZaemRKSDBuUmtLYXNmR1N2NVg3eGM5U0FFM3E4OHh4TmZnN1RIOFEzeDh4cEdqOHpQcmJ4TXNNcWNMc2VPM3RJVGhTdksxTURqNVlIdWJZSGRLemt4MTN4SDZjczhaOHFCZzdmQTRNWmRmdEJYaV9n?oc=5",
       "published": "2026-11-15T21:05:02+00:00"
+    },
+    {
+      "category": "Housing & Remodeling",
+      "title": "Home Sales Just Sank to a 16-Year Low. Here’s What This Means for Home Depot and Lowe’s Investors. - The Motley Fool",
+      "source": "The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV1FUMkpGRlY3YlhkNk9uZUFEMjB2MUNLaERsR2N6RTBHVm1IOHYyaVRGRmhuUzJUdDE2STE3LWZGN00tODhwUXJITmJZc2VaMkx1dTlnNldSbGMxSGxOaFhZbVE3TTJJNTZFUnlwcWFQNnlpeU5pYTZRN0tyak5kcDd0dnlQRHg0eldJN0JzSnd1WlAxSnRUVkxROXlSVVNhNTd2NU5MNVdSRF9W?oc=5",
+      "published": "2026-11-15T20:45:02+00:00"
     },
     {
       "category": "Marketing & SEO",
@@ -83,14 +111,7 @@
       "title": "Housing Market Predictions For 2026: When Will Home Prices Drop? - Forbes",
       "source": "Forbes",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9xYzQ3cnBpZ2NDSTBMeXJXUmoyWkNGX1NNLUpHQUhzdTVONG5CcGVxWW5KUDhBN1ZnME9XNDczZjZtZzc5aF9uQ0xDS3NfMUI3b2hPSDV5Sk5ZUWpyc2JGcjJDVnhqOE16cnppVlpmMHBQT21sXzdYMEU5TlhSOFRERGRydmc?oc=5",
-      "published": "2026-11-10T22:11:00+00:00"
-    },
-    {
-      "category": "Marketing & SEO",
-      "title": "How to Improve Your Social Media Presence - Business.com",
-      "source": "Business.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwSUF5Y1AySmpmd21HUm4za3lONlFiZ3g3X2NlV0xtNXNWVjVzVVgwRVZaR0Frd0paOXYwM0t4eGkzTHlqbnRKTlFWYnk1SXZJSzdyVHAzMTlfRm1kQXdwbWtLaEFEenlSZXBHMFpwNHpTWDNrbkhYTmR4NUtNWVE?oc=5",
-      "published": "2026-11-09T08:00:00+00:00"
+      "published": "2026-11-10T08:00:00+00:00"
     },
     {
       "category": "Housing & Remodeling",
@@ -121,25 +142,11 @@
       "published": "2026-10-29T07:00:00+00:00"
     },
     {
-      "category": "Housing & Remodeling",
-      "title": "Home Improvement Market Size, Share, Report, 2034 - Fortune Business Insights",
-      "source": "Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uSUNxczV4eGpheUc5cXd0RkhCSHFfdWNNSWxXX2xVUEp5bHdlMEIzSWZfV2FHRk5uUnBoQVVhV0RqZC1TeWRXbjJzMTdXbjRfWjFCd0w5YVVIRnFsajl4QmUyQU5yUE5XMmVKSkFEd2FXQWlTMWsyOW93?oc=5",
-      "published": "2026-10-26T07:00:00+00:00"
-    },
-    {
       "category": "Business & Regulation",
       "title": "Audi AG Selects Georgia to Invest $4 Billion in First US Manufacturing Facility - Georgia Economic Development",
       "source": "Georgia Economic Development",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnJoRlBFTUk1c3NnQmUwUG5jS3RGSTV5bjVqYVZ1S2lHWlpudWZwZzRGSm1WV1FsQ3hodUZvMjNkbnlxWTB4WnRxSFZka2F0ZE9yS1FzVEFvMG1qUG1uU2VLX0dlXzd1MWdSTExpY2cxUHV0dGpVNFMtMng1eXpZRnE1VUozLXA1Vm1FLXQ1bkt5Z0JzR3haV0lMTkxxMnFicG9PNU5HZHlTXzg?oc=5",
       "published": "2026-10-24T07:00:00+00:00"
-    },
-    {
-      "category": "Cabinetry & Materials",
-      "title": "Trump tweaks Canada tariffs, removing certain goods while adding others - Supply Chain Dive",
-      "source": "Supply Chain Dive",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWNaejhRbU4wTGlxcFhxbG5MdUNqWDV6THIwMHV5Yk01dlNLU0gyNnU4b25tNkxZNzJNdV9Qa3hMWHhYdDROOXJJU2U0cUhKS2c4MnZobl91VUZuOTJyVzRSWFJzakpKclBYR3lOOWUyOGhVNktSNVpiVEtmdVBuYldqcWdPOXdfYzlPcGpLN3BMdVZmWnMySXY1SVk0YjBiNVdhUXlPOU9taU1CeUNubmFQRmMxQQ?oc=5",
-      "published": "2026-10-23T07:00:00+00:00"
     },
     {
       "category": "Design",
