@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-20T07:12:37.646141+00:00",
+  "updated": "2026-11-20T20:15:39.615179+00:00",
   "articles": [
+    {
+      "category": "Housing & Remodeling",
+      "title": "US housing starts rebound, but the permit slump signals trouble - Mortgage Professional America",
+      "source": "Mortgage Professional America",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNllkem9YSVpybkxQVHFpTHpGV1ZsQkFLSGk3VFJvSjBJc1R1Q2FrNlppYVh0OHJVTjVQcDJ0MHgtWGZyaFFaR2syTDhKU2tlc2V3R0R0T1Z0Rl9KbC0zelVvV2Y0c05MeTd1SnJOWkoxcThWYnRxeWQ2LXJRQUdNRW5tU3hIOVVILWVXWjZNQW0zcEswS0tKY2d6d2xiVFBGMC1SX0dOc1J3dkMyZEgtdTNQazlxY1pxUEdneFk1T0pKTTV0NVY4?oc=5",
+      "published": "2026-11-20T18:26:39+00:00"
+    },
     {
       "category": "Housing & Remodeling",
       "title": "Homebuilder confidence hits 14-year low as price cuts climb in sluggish housing market - KATU",
@@ -21,6 +28,13 @@
       "source": "Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTUwwY3c4c3NwWFlJT1BybjUxX0ZqSkgzajd4bFIza240eFNZVkx5MFhnNGI2SnV4M3k0ZTByMFNUSFotT2l6MGNheXhuZ1poN05kR3JPZ2JRT2RIM19JWjh4WEJaZjM1SnZiN0Nlak0tTGZGaXpkVUtQdmNKdW40ZER6VUI1MnpuN1Fyak52dlFRZ1lST3kxbw?oc=5",
       "published": "2026-11-18T18:51:04+00:00"
+    },
+    {
+      "category": "Housing & Remodeling",
+      "title": "Nearly half of home builders are cutting prices and offering lower mortgage rates as they struggle to find buyers - MarketWatch",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObU1aTTdQWGlnY0dIVXA3T1lrRmJKOEZsTldxTGZYdlR3VU11Y3JDTWFHMWxkVjk0c0VJWDhxNVA5OEpFOU45djF1SDFSa0prNmpDbHlkSGRhVVpRYzlSVzRzWU1yTy0zaTlyajFVRndVTm5CZmJrMTQyY1FTUDcxMmJseVhkLTRWZGpHYkFxZDJFdXo2ZW82SGF1QTE2RHlCRjhXdUN1UlpKVFBVcS14a1VzSHZGejNzNWlMVDdPaDl4SEVLNVpBVzJ4TlpZNTRFb3ZUX1ZoRmtrVHJJcmZSRUxSSy1jaUdDTG01Yg?oc=5",
+      "published": "2026-11-18T17:14:00+00:00"
     },
     {
       "category": "Housing & Remodeling",
@@ -51,25 +65,11 @@
       "published": "2026-11-18T13:39:00+00:00"
     },
     {
-      "category": "Housing & Remodeling",
-      "title": "Homebuilders slash prices as confidence craters to a 14-year low - Inman Real Estate News",
-      "source": "Inman Real Estate News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYWwyUWxCemQ1eXFMVG5MS1I2aVlabDZwZHAwTjczV0xKTFFtdVJJcGRPajVsMjlwS0gybndsbjhJVk9fOFBKYk1xaEZ2N29IX1dkUDZfRFZWbEhocVJ3d3FTYUFhNmROYkNsS0t6a2tGaXM4TVAxQVFLQ2tPczdwbjh4elNmM1dLSUJ0c2JUX2laTzgwT25pNEZB?oc=5",
-      "published": "2026-11-17T22:19:25+00:00"
-    },
-    {
-      "category": "Housing & Remodeling",
-      "title": "Home maintenance is fueling a rise in building materials sales - Marketplace.org",
-      "source": "Marketplace.org",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd21YajBBWHV0TlVRT3JIS1VYUjBsNnNmRzNid0NfQ3Q5eGNXbldVRkhaLXRIbVZiSnJ5Z3l1em9CVy14N2JsSkR0N1l5bWtCdTAzT2ppNWJsTUF2bzRyX1JIOHQwUmZmLWx6cHNfZmxDcnZLWXFkVURDeDZPT21OTkthQzI0SURhdEJSd25GTFdBU2l0NUpxS0hQSHNXQQ?oc=5",
-      "published": "2026-11-17T22:15:00+00:00"
-    },
-    {
-      "category": "Housing & Remodeling",
-      "title": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices - CNBC",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOREhTR1FVY1JMZW9BTDBLQWc5N2x3ckxvWllOV2V0cWFMdWNyeFMxM1RZMGJHWk93d3dFajBsZGgzTzA5ekZONzlDWm80cGtUR2JfMzY4Uko3QWU4SjM5NW1nUEh5Q1pFcGZQdWxtVG5Jck05RkE1VlRmeUhFYVJGLXZDUmxQRWxXY0RwMVh6N3F4LXJ0b2lIVGZOblR6dmRkM05OellMOTloS1dnQnZnSnVNdHkwVE9Ia1HSAb8BQVVfeXFMTWNrNFZzejFUVE9GNVFGbTFVX2xyYmpCLWhsUmx2MmdLQU9PQ1NVblVjc2FDMzZYQVlhMEdXbS1EamRRWkZ3RmFXN29pRnBxNllaN1FzeTJ2c21ZekxHdzdESE9iSTVnUzhuWHRiUW1GbFYtRFh2SkFONDlDSWg4RWFhRUVta2tBeWtMYkRrVVpBS1NpeGs0Sk13Y0E5R2gtSk1PX1ltbFZzc1k3bG9ib05mWkRucWJpajQyMTlXVjA?oc=5",
-      "published": "2026-11-17T15:00:01+00:00"
+      "category": "Design",
+      "title": "Is the housing freeze fueling custom storage? - Woodworking Network",
+      "source": "Woodworking Network",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc2ItcDlCc29WMnFJMnU3TXE3WlZ6M2IzUmJwVm1nQ3AwaFd5clB5SHlBNnQwSzE5VFgwZUZXcWQ0UjdJNVZhS0d3UVBfc08tdFlLTFJiejhkM2NjaGdyOVoxUVl4X0pSODY0OEItNVo4MWJ3MjZlS3dyX2JJYUh5S1ZPQkhpc0E?oc=5",
+      "published": "2026-11-17T18:09:52+00:00"
     },
     {
       "category": "Cabinetry & Materials",
@@ -77,6 +77,13 @@
       "source": "National Association of Home Builders | NAHB",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc2N2bmZFYXRfSlZkV3dtcTZEYlp0dUFJZ0xCaEd3NlJld0Z6M0dTRTBWOEpwTUxnQ2htWjllbVZUdXRIUDVibmpJMkhtU3c4akprN0NzeXU4X3hsU3FrZk5VUEZYdjV5VVpTU3lvLUFhTElKVmRuZEZNNDNYTDNDYXhNUjIwYmhtLXFsWDR6TnFYUjQxcjJ2bG9EMzBJYXJK?oc=5",
       "published": "2026-11-16T08:00:00+00:00"
+    },
+    {
+      "category": "Marketing & SEO",
+      "title": "Cabinet Boost Updates 2026 Cabinet Marketing Benchmarks - South Bend Tribune",
+      "source": "South Bend Tribune",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNl9ZMDZCdmJ0andjMV9HSHBrODdlV3lMMHdteE8zMzNtOWFBYzVDN1FqZm9DY0dJQzFrRmlGdVQ5YzFkblZLN3h5d2tJYnh0bjB6S0Zwak5sT0xBLWx0Z0xRSVZ3eGI1V0pvZzJrcUduRlNqU0FGMkVUVGdYM2pTVXk2TnFKZHg3RlBDWFZTaFRxZ0RmR2UyNEhiWVZsWUlGcEZmeDBGTGFPU1ZrRDlsME53ZnlTSFk?oc=5",
+      "published": "2026-11-13T16:59:52+00:00"
     },
     {
       "category": "Marketing & SEO",
@@ -93,6 +100,13 @@
       "published": "2026-11-12T08:00:00+00:00"
     },
     {
+      "category": "Marketing & SEO",
+      "title": "Local Marketing Plus SEO Releases Contractor Guidance Following Google AI Search Changes - Kitsap Sun",
+      "source": "Kitsap Sun",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTlRUekVDSVFSXzF5OWdFZW5lTzlpYkdDR0tKSkh0QnlJdnBHLUNiTmpXLXE4QzJXUnJzMEVWcGN3eVpBalRFVXI1ZzJfX0lybVU2X1lkekhEV3JJVjNsck11YzVrcTQxVDZTdVhYNTdsNDgwRmJtNVpsSldLMC1qcjB4c3lzQkNDT1ZWWXFYekVyYk5tQ1ZkN3dTazBDNktwTFQ5N09hbjBZdkJUTUxZcnVPalZJN2dneGRRa19SZC1iZGdWZnB1aDV5dG1Oal9qSXljcHZYNzlNZw?oc=5",
+      "published": "2026-11-11T19:42:33+00:00"
+    },
+    {
       "category": "Housing & Remodeling",
       "title": "Housing Market Predictions For 2026: When Will Home Prices Drop? - Forbes",
       "source": "Forbes",
@@ -101,17 +115,10 @@
     },
     {
       "category": "Marketing & SEO",
-      "title": "How to Improve Your Social Media Presence - Business.com",
-      "source": "Business.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwSUF5Y1AySmpmd21HUm4za3lONlFiZ3g3X2NlV0xtNXNWVjVzVVgwRVZaR0Frd0paOXYwM0t4eGkzTHlqbnRKTlFWYnk1SXZJSzdyVHAzMTlfRm1kQXdwbWtLaEFEenlSZXBHMFpwNHpTWDNrbkhYTmR4NUtNWVE?oc=5",
-      "published": "2026-11-09T08:00:00+00:00"
-    },
-    {
-      "category": "Business & Regulation",
-      "title": "Georgia business leaders react to Democrats' election triumph - The Business Journals",
-      "source": "The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMnhLUDZZQTdSRUF4aDlBUTMySzVSeEpFS3RZakV4cEtaZWFWTnZnZmJRWWx2cUw5c25KUmFlcDMxQ3BxbDdrU1ZyQXlIazhwYW94cWYtMzd3R2c0TURTLXRIY2dMRDRxdlhNT3lkRkFKdVJYVkRSYTdIYU1QcUkxRVpvZUUyZjdDX2pkeUpkLXVZRjZqTWwwSmU3QjFkdFdI?oc=5",
-      "published": "2026-11-04T08:00:00+00:00"
+      "title": "Massive wants to help small businesses turn Google searches into customers - TechCabal",
+      "source": "TechCabal",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQkdhYnM1TjhrY3pvRUROcDdqQll4ZjJUdXh5OEtVV0hVSzh4bm9jSTVyR1dlVXZkLTkybnFSUzBIQWVWOVhRX2NhLUJyWnZSTmdVMVd2THFpMGZyd1VVVk95a0Y1Vm9YbWpYT2xGT3ItMlNzMVprQUd4UDV1dTUtNg?oc=5",
+      "published": "2026-11-06T08:00:00+00:00"
     },
     {
       "category": "Housing & Remodeling",
@@ -119,6 +126,20 @@
       "source": "Mortgage Professional America",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLXJtZk9jemJaclVKZi1HaDJTZ2t3UzNoZlkxN3l3dTZqSEdpdll6dEhNQ0t2dFQxXzk3NVBsY3RuZS1rekpPaXpieENBSzNLdHJuVlJYeHRmMFZ5NWpiNThjMERyOWRINHBUel9CY0RHWE1SY08xai1zNFFqbldyZzJGUVgwd0hrbFhqYTJFRXNrY1FlampGaEM0Q3BleGMzbUdxZ2RKcy1oYTJ2djJmMXZ2eEk5SHI0TE9BMmFoMy02eW9KdTY5NVpB?oc=5",
       "published": "2026-11-03T08:00:00+00:00"
+    },
+    {
+      "category": "Housing & Remodeling",
+      "title": "Home Improvement Market Size, Share, Report, 2034 - Fortune Business Insights",
+      "source": "Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uSUNxczV4eGpheUc5cXd0RkhCSHFfdWNNSWxXX2xVUEp5bHdlMEIzSWZfV2FHRk5uUnBoQVVhV0RqZC1TeWRXbjJzMTdXbjRfWjFCd0w5YVVIRnFsajl4QmUyQU5yUE5XMmVKSkFEd2FXQWlTMWsyOW93?oc=5",
+      "published": "2026-11-02T08:00:00+00:00"
+    },
+    {
+      "category": "Marketing & SEO",
+      "title": "November 2026 Google Webmaster Report: Spam Update Done, AI Overviews, Help Docs, Local & Earnings - Search Engine Roundtable",
+      "source": "Search Engine Roundtable",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRXBjUjVYYW40S3FmZUljd2N2RlJxMXZOdXB5SFFFSU1kZS1rdDI3U0pFZ0pNcjlyanVQOEpPRjR2VzllUWUyZEtpZVdQSmdwdjEzZlp4ZDJoaFFNZW9iMjE0RC1EMm1qYmlfUjE1SS00eVAtajdjb2RFWm1adnhuZkpiTQ?oc=5",
+      "published": "2026-11-02T08:00:00+00:00"
     },
     {
       "category": "Business & Regulation",
@@ -135,13 +156,6 @@
       "published": "2026-10-30T07:00:00+00:00"
     },
     {
-      "category": "Marketing & SEO",
-      "title": "Small Business Visibility Is Expanding Beyond Google as AI Changes Local Search - 24-7PressRelease.com",
-      "source": "24-7PressRelease.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVGF2OUlBRUNUaVZXNHduZEcza25MdldBUjFuOU5JYUhnM241Q1FSOGF6VENmUVF0YW1lWXpPc3VvSDkxVmUzaGFEUWJ4OTZ5OVdiQUFjOVRnc3RQMXFUcFNiYjJzX3VRc3dGeHNmVnd0RmZwbF9wcHBra2szWGFXY0Rocy1XSVRrNkJfOVRqTGh4TGNGamlkWlhmVnZPby1MQUQyWjN3dmtUOExHLWcxRmt5SWpoM0hBYzUyOFpBS3BMOG1xMGRMNjc0c2NDUQ?oc=5",
-      "published": "2026-10-29T07:14:25+00:00"
-    },
-    {
       "category": "Design",
       "title": "USA Cabinet Store Applies NKBA and Houzz Kitchen Remodeling Findings to Design Process - USA Today",
       "source": "USA Today",
@@ -149,10 +163,24 @@
       "published": "2026-10-29T07:00:00+00:00"
     },
     {
+      "category": "Business & Regulation",
+      "title": "Audi AG Selects Georgia to Invest $4 Billion in First US Manufacturing Facility - Georgia Economic Development",
+      "source": "Georgia Economic Development",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnJoRlBFTUk1c3NnQmUwUG5jS3RGSTV5bjVqYVZ1S2lHWlpudWZwZzRGSm1WV1FsQ3hodUZvMjNkbnlxWTB4WnRxSFZka2F0ZE9yS1FzVEFvMG1qUG1uU2VLX0dlXzd1MWdSTExpY2cxUHV0dGpVNFMtMng1eXpZRnE1VUozLXA1Vm1FLXQ1bkt5Z0JzR3haV0lMTkxxMnFicG9PNU5HZHlTXzg?oc=5",
+      "published": "2026-10-24T07:00:00+00:00"
+    },
+    {
       "category": "Design",
-      "title": "Designers Say These 7 Kitchen Cabinet Trends Will Define 2027 – From Bold Colors to Bespoke Details - Homes and Gardens",
+      "title": "7 Kitchen Cabinet Trends To Know For 2027, According to Interior Designers - Homes and Gardens",
       "source": "Homes and Gardens",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHZmh2QU1zNWU4b0tBTmV0em10NHN2Q3phTmFLTHBHOFhYYklPR3VfaFg5djBBTGlSUTYyalFURFlUQ3JXRWhzcTRiUlB3bWZkamxHbk40THNPSWVfLWs5V2FqcjgzTmlJRTRpX0FFNGZyazVrelM1eWFpMi1vTnc?oc=5",
+      "published": "2026-10-22T07:00:00+00:00"
+    },
+    {
+      "category": "Design",
+      "title": "56 Small Kitchen Ideas With Big Style - HGTV",
+      "source": "HGTV",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzh1TVNVZ3hIUVNoaUc2eHZWUzRwUzQwOTZRdnJTZENROVBUbkhWakxIUjctRzVwS3ZxX09oNkVJajNNLXg5NTNsSDBudXdsbi1fVEp2b01tT3Z3anlFNnM4UnM3cS1TSnh4M0ZYNzA5TWlXODU5cU5pU1MwLUdSaElmbDYwQUwzejc4bS05eVNwNGZXTmVn?oc=5",
       "published": "2026-10-22T07:00:00+00:00"
     },
     {
@@ -164,17 +192,10 @@
     },
     {
       "category": "North Georgia",
-      "title": "Incentives & Recommendations Report Availability and Public Hearing - City of Gainesville (.gov)",
-      "source": "City of Gainesville (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU3ZseU1EVzI3RnhwQWNtcGcwS0t6VFV0NWZ0amdDeUM3dGdrTjRiSHBEaFZTeW5sOElEUHpUSUFicEhRT0d5YjJjam9ZQ0J2WmQ5aV9HQVNObmdNVlZna3N2ekxBOGJTR2FOOVFHbGxFTlk3MnlVOUNBZEVDZTVpMEtLZ1FjME5mTnVwTDRoblVHWU40ZDJvVFVHbnNQSUc0OHJkYkU2bVFSclJKdjJyYVpoQkc?oc=5",
-      "published": "2026-10-19T07:00:00+00:00"
-    },
-    {
-      "category": "Business & Regulation",
-      "title": "2026 Investment Climate Statements: Georgia - U.S. Department of State (.gov)",
-      "source": "U.S. Department of State (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmM05oSUlmN1RRLXNBeF9PeDJrUmtfNU1fVEFFWGFESGkwekF1cktlLVBmS3RsZ1hQVzhKeW0zaE5NdVFJSHU2eUdkNTdsY0NmVDYxMFpiSGdLYlFqcjFnM1I4VVBLVThNWldGOU83S1ROa3BvTmF1Q2wxTEU?oc=5",
-      "published": "2026-10-15T06:53:37+00:00"
+      "title": "908 Group Breaks Ground on 684-Bed Chapter House UF in Gainesville - citybiz",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOThxRXRyOExhcTZmRGFFRmQ5QVFkZmZ1RkwtVVpLNkxkbktXdjE3b3lGaEd3YVpwLW9YeWVQMkJLN1lCMkY0UTZNOXBkUnpJVFlSUm1zRG1MWWoxb210RDJnUm1uQkg5blpsbXMwdlBxUXk5bmpTYXI4czZ3dElRcW9Qb25wZ3B3NGJLVV9SQUNqZWRiaVV1R01lbzdTRmI2QVZ0STR5R2Y?oc=5",
+      "published": "2026-10-15T07:00:00+00:00"
     },
     {
       "category": "North Georgia",
@@ -202,6 +223,13 @@
       "title": "Remodeling Market Sentiment Remains Stable in Third Quarter Despite Headwinds - National Association of Home Builders | NAHB",
       "source": "National Association of Home Builders | NAHB",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOemRDVHdjdjUxMWJZeHctOUVyQUJDai1pbWJ6a0xpeUNYMWhCREctOWlQZ0xxTDdBaXRTN2wxNS16N2dyV280Z2NIQ0ZBQlhQQkFiY2d2NVU3MU1mNTJqY250Q2lmNG9DalRsY1puQVliWDJZMWhmRkF4ZHI0NmJzcl91dV93MldxTnRmLXBsN29heERYU0c4VnR3NldsMmtOU0NSUVJ5TVV6bzREMGRvcW5RODc5TmRuN1RUUnprM0I5ekNreEtQYlVLSkZrV2ZGSThBSjFZRQ?oc=5",
+      "published": "2026-10-08T07:00:00+00:00"
+    },
+    {
+      "category": "Design",
+      "title": "Small kitchen, crowded counters: Designers recommend these unexpected places to add storage - Yahoo",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOY1pQU2NKNGQwbTlnVkNuNXd1bFFScy05UERKZ2FBU0EycTRBdEJrYjktR3JqV1djTEFXQVhzVWc0Q3NqbUE1bVI0Y2wyV2l2d2NyNlZGVXE1NmFVUXk3ZGZEb0hTM1Z3MlJsRXZ6aXpUMUNOcVNPcHJlX2RJcDdUYW1XVlFqZmFxTDAzVmp0akZOQU14RVE1WTBBLTJQMWxZaDRhMWdSN2NWc1hWRFg2QUF6X0pQY3lNMWJBT1h1MXU4XzVoZ2Z3MzdJX3RSejBaSmt3NE1zZGtwdTZXdkpvajRfWi00RWY1bmUwdzFpSTg?oc=5",
       "published": "2026-10-08T07:00:00+00:00"
     },
     {
