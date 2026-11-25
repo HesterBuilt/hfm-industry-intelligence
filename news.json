@@ -1,13 +1,6 @@
 {
-  "updated": "2026-11-24T22:25:17.613174+00:00",
+  "updated": "2026-11-25T08:30:51.969877+00:00",
   "articles": [
-    {
-      "category": "Marketing & SEO",
-      "title": "Meta Ads Cost Optimization, Short-Form Video Production, and Industry News - Social Media Examiner",
-      "source": "Social Media Examiner",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeC1leG1DSWxVVVFONVhPdHBzOWRwT2dJc3FMUXlMcVhjMUZrcGtZWEo3d2o2S3hBSnZMaDc5amp3VHBnVzdqT2daS3BWTzdnQlhOQVlzTktaMTJLcXNYaU9QOWgwM2FKNFo5MXZaRlh6Q3RUbVhDeVEzOUx4aGJjU08yUnd2UWh6VUVKWF91YzA1VHpPeUkybmJwckdfT3hkR21kbThDUGVfeDJacVE?oc=5",
-      "published": "2026-11-24T10:41:58+00:00"
-    },
     {
       "category": "Cabinetry & Materials",
       "title": "Framing Lumber Prices - National Association of Home Builders | NAHB",
@@ -16,18 +9,25 @@
       "published": "2026-11-23T08:00:00+00:00"
     },
     {
-      "category": "Design",
-      "title": "Is the housing freeze fueling custom storage? - Woodworking Network",
-      "source": "Woodworking Network",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc2ItcDlCc29WMnFJMnU3TXE3WlZ6M2IzUmJwVm1nQ3AwaFd5clB5SHlBNnQwSzE5VFgwZUZXcWQ0UjdJNVZhS0d3UVBfc08tdFlLTFJiejhkM2NjaGdyOVoxUVl4X0pSODY0OEItNVo4MWJ3MjZlS3dyX2JJYUh5S1ZPQkhpc0E?oc=5",
-      "published": "2026-11-17T18:09:52+00:00"
+      "category": "Housing & Remodeling",
+      "title": "NAHB: Building Material Price Inflation Remains High - LBM Journal",
+      "source": "LBM Journal",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZVNfdUhrRXpGcjZIWGdvTUptaW5fOWFEUFlqbnctU3dlNlhxOHY3VUJ4MGdqNGZfcUxMaHBvU3FVRUxWMzFfLTJueENOLXFBdWVBcFpHdVJoczNIQkRwU2hXaHN4bk1nMGcyN1VCWUlaNEJmRGJfT2QtOGZvY21LR1ZnaFRwNHJMTTVMUXBoNVdmd0xnVVkwdUxZWGp0WUFwXzNldk50MXRjRlFuRG5Tdi13a2RzdDg0QU9zSnY2dExxNWZROWtyWU1lRWVDS0Q4clMxazMxaDRhQjR4MUJmTXpuOTdFcWJ3NTVfS096NA?oc=5",
+      "published": "2026-11-16T08:00:00+00:00"
     },
     {
-      "category": "North Georgia",
-      "title": "Supervisors take first steps toward allowing up to 4,000 new homes in rural Gainesville - Prince William Times",
-      "source": "Prince William Times",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOUk1fcEJvTjNFMklyTTh5dTBvSUNqUmNLa0NMd1YwRlo3bWxPVWN3ZEd3N3htaFRrWm9YaEdkbmVISW1DTmFDblYxaUU0UUdNT2k5NC1TTG11SzZYN1JGUlJtOENMN3J6aXU0aGdTWG1zQVB2OGJ2eERRNVNkaE00a0h6UDVVSlRLQ1h3RUM1bTd5ekYzeFRLdlN3NXpDMElXTVZlNHYxcDFzU0g0QnR3SENIY1dtT0l2WXN4VjByYUxTYUJBZDhNMDRsWXk0MWJWZGw2WWQ0VTc5V1NkQmc5blhacWxjVHMyNXMtY2FzOWN6ZDA5aGhCV2dZNGg0RGJIY0t3eEdCZi1GenplVU04?oc=5",
-      "published": "2026-11-17T15:52:23+00:00"
+      "category": "Marketing & SEO",
+      "title": "Stay in the Know: Keeping Up With Digital Marketing Trends - Business.com",
+      "source": "Business.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZTRWQzBTSUJFd2d2VXF4aWxSLWswaVQ5cUhaT2tBVE9GdVgwX3dhaFl6bmJkUWZsZE5sT0pKM1p3WEl4YnZTUUxjdll1b2RCZ0ZVMnc3NjJhTEJtSlFjOFN6NnV1ZkZzZXI5aFFjLWpxeDE0MjFOOW1uVFdJTVFldDJmT2QyZw?oc=5",
+      "published": "2026-11-16T08:00:00+00:00"
+    },
+    {
+      "category": "Housing & Remodeling",
+      "title": "Stubborn input inflation pressures builders despite energy pullback - HousingWire",
+      "source": "HousingWire",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd3YyYXcyZnAtaS1iYzlJN2NuUE5CbW1fMHQzUlF2cjJEeGYxN09BbFJEUXNtU2dlUGF5Q29wMDlRc2pjQ090UnpTMnV4bG16bUpVdmZRMXhYUC1WVkdFT2xaako5VEJmZTJxdndZNnZla0Y1U2IwN3hMcl90dms4OVBJdl80Y0lJaEt5U3Zaa1JyWHB4TlE?oc=5",
+      "published": "2026-11-13T08:00:00+00:00"
     },
     {
       "category": "Marketing & SEO",
@@ -44,6 +44,27 @@
       "published": "2026-11-12T08:00:00+00:00"
     },
     {
+      "category": "Design",
+      "title": "43 kitchen island ideas – and top tips from the professionals - House & Garden",
+      "source": "House & Garden",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY29HZjVHa21JMkJOcTlKU1g5bHFiODFLWk54RUd1SHNreTduWHZPaEl5WHFKYmJmczFaVnh2M0VxOTF2M2wzRnMyNnhJNHhZbFJCanIzOVRreGZZWVpzUldrYTFIZWRWcDd2OEI4TXhUOGgyZHgxanVZelhaMVBIejhDYWxROXQxbEo0OEtMVm8xLWNySExZ?oc=5",
+      "published": "2026-11-11T08:00:00+00:00"
+    },
+    {
+      "category": "Housing & Remodeling",
+      "title": "Remodeling Activity Holds Flat in Q2 Amid Housing Slowdown - RISMedia",
+      "source": "RISMedia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdGtaQ1J0Y1JoRkxPTmY5Zi13eGVBbjNKdnUxWlZ5OHZKSmVMOVhoZzNYSjYxbGZaMmJWeWhFQlNJbkROWDBKU1hIcWNSaVBhQzZtUFlHMG9MMl9fbm0teGJ4eEx4bHk2RTMtSEZESnlGRTE3alFjT1cxdmx5Q3ZRN2Z4dUx6X2tERHEweXcxbXZBQmdGeDFF?oc=5",
+      "published": "2026-11-11T02:49:17+00:00"
+    },
+    {
+      "category": "Housing & Remodeling",
+      "title": "Remodeling Activity Holds Amid Housing Slowdown - LBM Journal",
+      "source": "LBM Journal",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUF9mZnd5aWZoQTdQQVpnd3dTb19OdmRRSEs4b2FsTTFjN3RvcE1OcnNEY0RMb0RPZ2doTVBLU2kxVHNlNkJlSXltNFVjYlRsc3BuWFpPbTlPeDlrVHVMRFBQUTFXYjNLZVlmOVEyRDRVcjdwUEV5X0tfNHcwY1E2bjNRb0Z4Uk9TdWxSa3pKcDJVSFRNemhWSzlCMUx6cjh6a3hMZm16ZDkxVXl0TjdSRUZ6ZGpWUnppNWVTVGRFWDRDVl9WdEFadkpndWV3MVNlVmp6WXhqMVRJNWZFWElJbXJjQmNfR0lQTkE?oc=5",
+      "published": "2026-11-09T16:08:09+00:00"
+    },
+    {
       "category": "Housing & Remodeling",
       "title": "Home Improvement Market Size, Share, Report, 2034 - Fortune Business Insights",
       "source": "Fortune Business Insights",
@@ -51,11 +72,11 @@
       "published": "2026-11-09T08:00:00+00:00"
     },
     {
-      "category": "Business & Regulation",
-      "title": "Georgia business leaders react to Democrats' election triumph - The Business Journals",
-      "source": "The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMnhLUDZZQTdSRUF4aDlBUTMySzVSeEpFS3RZakV4cEtaZWFWTnZnZmJRWWx2cUw5c25KUmFlcDMxQ3BxbDdrU1ZyQXlIazhwYW94cWYtMzd3R2c0TURTLXRIY2dMRDRxdlhNT3lkRkFKdVJYVkRSYTdIYU1QcUkxRVpvZUUyZjdDX2pkeUpkLXVZRjZqTWwwSmU3QjFkdFdI?oc=5",
-      "published": "2026-11-04T08:00:00+00:00"
+      "category": "Housing & Remodeling",
+      "title": "NAHB Data: The Most Time-Consuming Stage of Single-family Construction - LBM Journal",
+      "source": "LBM Journal",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQU1BLYnp0eERpNkFFQVRONXQ1TXlrc1ktaS1kX1pGMnV0SHhiRW4tUHc0a3F3Mjg4ZTdHLXF4M2xkS19OVDFYd0JyN3FvS0VPT2NYb2F2aGU2UHoyRVlRV1dWZzBQVGY3WGdKODIxUVZxRklQdmEwd200UFJyQ3o4YWxOQWRNc0FteGNEcE4xTGpfbHVwMUdlWHRCdnJ6YjlvRHUxeE1HOElSNW5EcWt2amFnT1BkTE82NDA5aDdUWG9aSVItX3BKeFBuanVueVgtSUZ3dHpQWVNla2ZIZ3RvcHJlOUV5UmtwUHNqUGJsSVhVTS1iTXdvX2UtSHIzdUxGUG5yOQ?oc=5",
+      "published": "2026-11-03T08:00:00+00:00"
     },
     {
       "category": "Housing & Remodeling",
@@ -83,7 +104,7 @@
       "title": "Just About Every Part of Building a House Is Getting More Expensive - WSJ",
       "source": "WSJ",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR05UUmxFR2hLLVR5OU4wZGtwX1JuV1ppMHRDYV9XaVdlSGpqcE90Qi1tMVdKclVBN05FT05PVHh6dEl1SThsU2NSQlFyc2FOWTUxMEFBZEtydXM2ZXFEbU04MVVNRGh2ZUxzWlQzR0duT29NTTVmUy1KMHp4UkZ3SXBZOVk1RXhtZXVQdWhNS3NGMHNwd1hzTThYYTVpZ0ZXdFNvUGYxSlJlQzBOTklTV0tR?oc=5",
-      "published": "2026-10-31T07:00:00+00:00"
+      "published": "2026-10-30T07:00:00+00:00"
     },
     {
       "category": "Marketing & SEO",
@@ -101,10 +122,24 @@
     },
     {
       "category": "Marketing & SEO",
+      "title": "Top Multi-Platform Social Media Posting Tools - Influencer Marketing Hub",
+      "source": "Influencer Marketing Hub",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTENzTTVpWm94b21QSldXejliNFdNRDVnVk5WUXFpRWUxUUV6Tm42SHNPMUtCMGZCVUpyNHh5ZjZYYldDREgyejJpMmFJWDMtOGJGQ3lTdmVRbV9nNngtX2xQOXN0OGZLV2EyOEJjX0UxcW8zZmhFZkxSZjJqNW52bl8tdktRNTBvQlpSV1l0bTg0YVBqWmlDZzEzLXFJVXNMakFRbXE4UkVQUQ?oc=5",
+      "published": "2026-10-29T07:00:00+00:00"
+    },
+    {
+      "category": "Marketing & SEO",
       "title": "The Survival Guide to the Decline of Facebook’s Organic Reach - Business.com",
       "source": "Business.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOF9iLXh1eDdYdi1HLVRQREFfY0lLSzRFcEV3SlVqNEtfM2lUZ1hVSmFfUUwydkloTnZtSGxXVUg4dUwwdDRzX3pUZ05yUTdaQTQ2ME9hT2dvb0NKZXBaR0hqejhmREpyeFBLVTJhRVJLY1htQ05WU1l1MFRTdEtOaQ?oc=5",
       "published": "2026-10-27T07:00:00+00:00"
+    },
+    {
+      "category": "North Georgia",
+      "title": "Mitsubishi Power Doubles Footprint in Chatham County - Georgia Economic Development",
+      "source": "Georgia Economic Development",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV2Jrd0owc1ktb3hKc3llQ1JhdnEyOWVVN204M2hyUWJWTmEwVnhFMWpZYzF5WnEwUERIU3Y4U0kyTURpcWI2OUtUTHpudkJNZUdrZVgzTkZyWFJsNkZuaTAteHhNSS0waHNhZHN1cndPWEdiQVhNNHBTeHREbGRHWWlfbmFZcjFSWTNSYTd6X1dXT1U?oc=5",
+      "published": "2026-10-23T14:05:23+00:00"
     },
     {
       "category": "North Georgia",
@@ -115,24 +150,10 @@
     },
     {
       "category": "Housing & Remodeling",
-      "title": "First-time buyers represent an untapped renovation-lending pipeline - National Mortgage News",
-      "source": "National Mortgage News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbUtJTWxpdHZZOWQtOHpWdkxPVmV0TlQ2VGFCYVJJZ1d4anh4WTZjazZWQng5YTVUekhuWE9GVnVuaDBOc2NnVW9GaXRxREF1V3Y0SU5aYlVBdHFIQzBfVXVOeU1IWU9KMkcwY1g2NEprUEVTSmRtS096VnFhOVp3bjFjRkxheUZtb0lsWnJuRlpEVTBYMDhmeU50eEJadEk4Znc1NDIyc2dEYUpPWHc?oc=5",
-      "published": "2026-10-23T07:00:00+00:00"
-    },
-    {
-      "category": "Cabinetry & Materials",
-      "title": "What cabinet manufacturers should expect from a door supplier - Woodworking Network",
-      "source": "Woodworking Network",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNVNlRkF1MUR1MHNPTlZKWGVTdUZuU1VSb1ByeFFfOVprRXlIVEwwR1U1N01KZUVQbWRDeEg0U3JYZVVfUGN4dTM3WnR4RmJmUVhuRXR4anF0RDVqYWtQVVNxd1BpR2lvV0NkeU5CY2lUTG44cFpHN3pHZTZWQWJwQktJSXZVZ2ZxNXpaMHBZdFFBbmE1NzFRVnVpbUhRakxCbnRnSXFadEJlTTM4c1BMaDJNRU9Mb2JOM1dwY2l2b3VrZ2l2M3dfZHZR?oc=5",
-      "published": "2026-10-23T07:00:00+00:00"
-    },
-    {
-      "category": "Design",
-      "title": "56 Small Kitchen Ideas With Big Style - HGTV",
-      "source": "HGTV",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzh1TVNVZ3hIUVNoaUc2eHZWUzRwUzQwOTZRdnJTZENROVBUbkhWakxIUjctRzVwS3ZxX09oNkVJajNNLXg5NTNsSDBudXdsbi1fVEp2b01tT3Z3anlFNnM4UnM3cS1TSnh4M0ZYNzA5TWlXODU5cU5pU1MwLUdSaElmbDYwQUwzejc4bS05eVNwNGZXTmVn?oc=5",
-      "published": "2026-10-22T07:00:00+00:00"
+      "title": "Home Depot (NYSE:HD) stock rebounds as rate cuts stir home-improvement demand - Kalkine Media",
+      "source": "Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeU9rUVdzTUQzSFQ5MmNiMHBJWDd4RzBvbk9aekZPZ2hYTnlSQlk0eTdTdU5ucWc5VDBHZzVobnRfdjZuUzVlSjNDcUdQU0plRG1GQnZ1Nmtsc0FKV2ZTSWk5Q3cxNE9uMUVFaEM4UG5GYldoWXFrX0EyVWhNSHZSUXhsSlRFY1VVaEQ1eGNfbG1PSmVLQnJRVHhtTExZYlkxa0Y1LWRzWHJjVHVDSzMwVmxRMDQyX20yY0E?oc=5",
+      "published": "2026-10-21T07:00:00+00:00"
     },
     {
       "category": "Marketing & SEO",
@@ -143,30 +164,16 @@
     },
     {
       "category": "North Georgia",
-      "title": "908 Group Breaks Ground on 684-Bed Chapter House UF in Gainesville - citybiz",
-      "source": "citybiz",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOThxRXRyOExhcTZmRGFFRmQ5QVFkZmZ1RkwtVVpLNkxkbktXdjE3b3lGaEd3YVpwLW9YeWVQMkJLN1lCMkY0UTZNOXBkUnpJVFlSUm1zRG1MWWoxb210RDJnUm1uQkg5blpsbXMwdlBxUXk5bmpTYXI4czZ3dElRcW9Qb25wZ3B3NGJLVV9SQUNqZWRiaVV1R01lbzdTRmI2QVZ0STR5R2Y?oc=5",
-      "published": "2026-10-15T07:00:00+00:00"
-    },
-    {
-      "category": "Business & Regulation",
-      "title": "2026 Investment Climate Statements: Georgia - U.S. Department of State (.gov)",
-      "source": "U.S. Department of State (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmM05oSUlmN1RRLXNBeF9PeDJrUmtfNU1fVEFFWGFESGkwekF1cktlLVBmS3RsZ1hQVzhKeW0zaE5NdVFJSHU2eUdkNTdsY0NmVDYxMFpiSGdLYlFqcjFnM1I4VVBLVThNWldGOU83S1ROa3BvTmF1Q2wxTEU?oc=5",
-      "published": "2026-10-15T06:53:37+00:00"
-    },
-    {
-      "category": "North Georgia",
       "title": "VDL Groep Adds 120 New Jobs in Hall County - Georgia Economic Development",
       "source": "Georgia Economic Development",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcmRYeGtubHVoYzF5TkNINzVMbWVPNUNuMFRpZGhZUW44Zk9ERFBVZXlnZjNaVG9HOHA2Tmx5dUlPRG5mVlVrTHA2YU9OSEc5c0NKSTFGNGVubGdHVF9LbFVpU25SQkFXMENmTDJJczdONDBUeVdJX18xeFZMb2VJV3lyTVdhdw?oc=5",
       "published": "2026-10-13T14:30:14+00:00"
     },
     {
-      "category": "Housing & Remodeling",
-      "title": "Homeowners put renovations on hold as improvement costs outstrip savings - Mortgage Soup",
-      "source": "Mortgage Soup",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUkEtcTZoM3Z5RVdmdjk4Y2dKdlVUYUEybGtLdUVMeExCUEtqeDczdU05Wm56VjdaNUloMEVQR282YnkxS2lVNF84d1VtSVgxUWJoZHRBbTVEX1lBMHFoQTZMVmllMkh0Wk1IYUwyS1dJWUpIdERwNDl3cFh0QkFBMHdOY3dVZ2Exd1RHZUtYcFdfQ1V6XzZycHdIY2R3ZHlrUXc?oc=5",
+      "category": "North Georgia",
+      "title": "Why a global tech giant is pouring $77 million into Hall County - FOX 5 Atlanta",
+      "source": "FOX 5 Atlanta",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeUNnTTZ6czFHNFpRUjdiWFY5djllZWxMR2Rid0ZZRmNnQktzME1RcFpNeEs4ZnN3ZTQ2U25FX1RRd3ppZENUT0xmalp2bzh3LTZocFJ3ZnNPbUE0Y0wyTFNWbDhVY0xPSFpXcFpJZnNvZXZYY1pta2NmM204TWoxMEdWaWZaSEVSWFdZbnVNRllMQQ?oc=5",
       "published": "2026-10-13T07:00:00+00:00"
     },
     {
@@ -177,10 +184,10 @@
       "published": "2026-10-13T07:00:00+00:00"
     },
     {
-      "category": "Cabinetry & Materials",
-      "title": "Cabinet manufacturing equipment auction announced from Volumetric Building Companies - Woodworking Network",
-      "source": "Woodworking Network",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUG05a3Y1ZEswckI4YmxfRy1JT0xzeWFuMlN1QVRhd1B4MFB6R1lvbGtiMkVwc1R4TDBXN21ORWQtZVFObkltTVlVdG4xVXJYSmRVcHlzQmJBWUtqRkFPMmN5ZmJhNFRNdjNocmNTdjlxMjc3aFh5QVdhN1lEcGt6OTI2bDdKTVY1NUE5M2RaR2RTTjh0UUNqdnVCMmpXXzV2aTBibEdEa1pETTc3clhRSTJZSlZIVXZBOG5wVDVqdm56U2Nu?oc=5",
+      "category": "Housing & Remodeling",
+      "title": "Remodeling Market Still in the Black Despite Construction Woes - RISMedia",
+      "source": "RISMedia",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc3hYOUhTQUVuS1JSc2FvamxjTWlPY25SOWp1SXVEMFIwaXlSTzB2NHlpeHVGVDVTWDRkTVVEZEp1aklkSFBRRlNtSUtGTUIyWG02RmtFZzVRSDBvUHgzNTV0azJPTWRfSjB0T0lFck1KWXBTWFRKX1QyeGY3dkowdDkzVHc3c0hXaEtQTWdjc1RQUVF6VzFsVGwxUm1oSFFj?oc=5",
       "published": "2026-10-12T07:00:00+00:00"
     }
   ]
